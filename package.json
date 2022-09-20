@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-dynamic-routing-custom-server",
+  "version": "1.0.0",
+  "description": "A reproduction of Next.js 12.x problem while rendering a dynamic route",
+  "main": "next.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/nextjs-dynamic-routing-custom-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/nextjs-dynamic-routing-custom-server/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/nextjs-dynamic-routing-custom-server#readme"
+}
